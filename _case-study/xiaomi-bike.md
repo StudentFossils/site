@@ -10,4 +10,4 @@ tags:
   - battery
 ---
 
-{% include xiaomi-bike.md %}
+{% include cs-xiaomi-bike.md %}
